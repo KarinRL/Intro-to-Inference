@@ -1,8 +1,11 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 1: Sampling Variability and Repeated Sampling'
+
+
+'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This section explains what is sampling and sampling variability. This is a crucial key to understand what is coming next in doing statistical inference: estimating with confidence intervals and doing test of hypothesis.'
+  
 prev: null
 next: /chapter2
 type: chapter
