@@ -1,8 +1,6 @@
 ---
 title: 'Chapter 1: Sampling Variability and Repeated Sampling'
 
-
-'
 description:
   'This section explains what is sampling and sampling variability. This is a crucial key to understand what is coming next in doing statistical inference: estimating with confidence intervals and doing test of hypothesis.'
   
